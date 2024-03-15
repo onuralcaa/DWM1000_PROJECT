@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\bin\Debug\DWM1000_Koordinat_Tespit.exe.config
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\bin\Debug\DWM1000_Koordinat_Tespit.exe
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\bin\Debug\DWM1000_Koordinat_Tespit.pdb
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.exe
+C:\Users\onura\OneDrive\Masaüstü\DWM1000_Koordinat_Tespit\DWM1000_Koordinat_Tespit\obj\Debug\DWM1000_Koordinat_Tespit.pdb
